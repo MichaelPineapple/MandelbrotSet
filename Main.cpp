@@ -58,10 +58,10 @@ struct MclPoint
 // Width and Height of the cursor zoom box. Dependant on the window size and scale of the cursor box
 const double CURSOR_BOX_WIDTH = WINDOW_WIDTH * CURSOR_BOX_SCALE, CURSOR_BOX_HEIGHT = WINDOW_HEIGHT * CURSOR_BOX_SCALE;
 
-/*** ~ GLOBAL VARIABLES ~ ***/
-
 // color of the cursor box
 const GLfloat colour[] = { 1, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0 };
+
+/*** ~ GLOBAL VARIABLES ~ ***/
 
 // mouse position
 double mouse[2];
