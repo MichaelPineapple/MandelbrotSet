@@ -6,5 +6,5 @@ Video demonstration: https://youtu.be/5BTyDz7SKi8
 
 Presentation: https://youtu.be/fhdOfPQ0yAw
 
-![img0](https://media.discordapp.net/attachments/701284862291607655/768237400438210570/Mandelbrot_Screenshot.png)
-![img1](https://media.discordapp.net/attachments/701284862291607655/768237517794181180/cool3.png)
+![img0](https://github.com/MichaelPineapple/MandelbrotSet/blob/master/screenshot0.png)
+![img1](https://github.com/MichaelPineapple/MandelbrotSet/blob/master/screenshot1.png)
