@@ -6,5 +6,7 @@ Video demonstration: https://youtu.be/5BTyDz7SKi8
 
 Presentation: https://youtu.be/fhdOfPQ0yAw
 
-![img0](https://github.com/MichaelPineapple/MandelbrotSet/blob/master/screenshot0.png)
-![img1](https://github.com/MichaelPineapple/MandelbrotSet/blob/master/screenshot1.png)
+<p float"left">
+  <img src="https://github.com/MichaelPineapple/MandelbrotSet/blob/master/screenshot0.png" width="25%" height="25%" />
+  <img src="https://github.com/MichaelPineapple/MandelbrotSet/blob/master/screenshot1.png" width="25%" height="25%" />
+</p>
