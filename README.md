@@ -1,6 +1,9 @@
 # Mandelbrot-Set
+
 GLFW: https://www.glfw.org/
+
 Video demonstration: https://youtu.be/5BTyDz7SKi8
+
 Presentation: https://youtu.be/fhdOfPQ0yAw
 
 <p float"left">
