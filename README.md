@@ -1,4 +1,4 @@
-# Mandelbrot-Set
+# Mandelbrot-Explorer
 
 GLFW: https://www.glfw.org/
 
